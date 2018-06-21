@@ -1,4 +1,4 @@
-Creator "igraph version 0.7.1 Sun Jun 17 14:32:20 2018"
+Creator "igraph version 0.7.1 Thu Jun 21 16:38:13 2018"
 Version 1
 graph
 [
@@ -8,888 +8,1036 @@ graph
     id 0
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)cc3)c(Br)cc12)C1CC1"
     pIC50 9.1
+    pubid "CHEMBL260417"
   ]
   node
   [
     id 1
     smiles "CN1CCC(C(=O)Nc2n[nH]c3nc(-c4ccc(O)cc4)c(Br)cc23)CC1"
     pIC50 9
+    pubid "CHEMBL261129"
   ]
   node
   [
     id 2
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)cc3)ccc12)C1CC1"
     pIC50 8.1
+    pubid "CHEMBL405145"
   ]
   node
   [
     id 3
     smiles "CN1CCC(C(=O)Nc2n[nH]c3nc(-c4ccc(O)cc4)ccc23)CC1"
     pIC50 7.92
+    pubid "CHEMBL410926"
   ]
   node
   [
     id 4
     smiles "O=C(Nc1n[nH]c2nc(-c3ccccc3)c(Br)cc12)C1CC1"
     pIC50 7.12
+    pubid "CHEMBL259270"
   ]
   node
   [
     id 5
     smiles "CN1CCC(C(=O)Nc2n[nH]c3nc(-c4ccccc4)c(Br)cc23)CC1"
     pIC50 6.42
+    pubid "CHEMBL261882"
   ]
   node
   [
     id 6
     smiles "O=C(Nc1n[nH]c2nc(-c3cccs3)c(Br)cc12)C1CCCC1"
     pIC50 8.15
+    pubid "CHEMBL407980"
   ]
   node
   [
     id 7
     smiles "CN1CCC(CC(=O)Nc2n[nH]c3nc(-c4cccs4)c(Br)cc23)CC1"
     pIC50 7.75
+    pubid "CHEMBL260680"
   ]
   node
   [
     id 8
     smiles "O=C(Nc1n[nH]c2nc(-c3cccs3)c(Br)cc12)C1CC1"
     pIC50 7.41
+    pubid "CHEMBL260231"
   ]
   node
   [
     id 9
     smiles "O=C(Nc1n[nH]c2nc(-c3nccs3)c(Br)cc12)C1CC1"
     pIC50 7
+    pubid "CHEMBL261690"
   ]
   node
   [
     id 10
     smiles "O=C(Nc1n[nH]c2nc(-c3nccs3)c(Br)cc12)C1CCCC1"
     pIC50 7.8
+    pubid "CHEMBL406644"
   ]
   node
   [
     id 11
     smiles "O=C(Nc1n[nH]c2ncc(-c3ccccc3)cc12)C1CCCC1"
     pIC50 8.3
+    pubid "CHEMBL258483"
   ]
   node
   [
     id 12
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 7.25
+    pubid "CHEMBL258701"
   ]
   node
   [
     id 13
     smiles "CCC(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 7.37
+    pubid "CHEMBL406701"
   ]
   node
   [
     id 14
     smiles "CC(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 6.54
+    pubid "CHEMBL288448"
   ]
   node
   [
     id 15
     smiles "CC(C)C(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 7.72
+    pubid "CHEMBL261596"
   ]
   node
   [
     id 16
     smiles "CN(C)CCCC(=O)Nc1n[nH]c2nnc(-c3ccccc3)cc12"
     pIC50 7.66
+    pubid "CHEMBL259744"
   ]
   node
   [
     id 17
     smiles "O=C(CCCN1CCCC1)Nc1n[nH]c2nnc(-c3ccccc3)cc12"
     pIC50 7.96
+    pubid "CHEMBL261441"
   ]
   node
   [
     id 18
     smiles "O=C(CCCN1CCOCC1)Nc1n[nH]c2nnc(-c3ccccc3)cc12"
     pIC50 8.3
+    pubid "CHEMBL261518"
   ]
   node
   [
     id 19
     smiles "CN1CCC(C(=O)Nc2n[nH]c3nnc(-c4ccccc4)cc23)CC1"
     pIC50 8.05
+    pubid "CHEMBL406125"
   ]
   node
   [
     id 20
     smiles "CCN1CCN(CCCCC(=O)Nc2n[nH]c3nnc(-c4ccccc4)cc23)CC1"
     pIC50 8.3
+    pubid "CHEMBL259271"
   ]
   node
   [
     id 21
     smiles "CCN1CCN(CCCC(=O)Nc2n[nH]c3nnc(-c4ccccc4)cc23)CC1"
     pIC50 8.15
+    pubid "CHEMBL409738"
   ]
   node
   [
     id 22
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 6.96
+    pubid "CHEMBL160876"
   ]
   node
   [
     id 23
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1cccc(C(=O)O)c1"
     pIC50 6.73
+    pubid "CHEMBL347632"
   ]
   node
   [
     id 24
     smiles "O=C1NC(=O)C(c2cccc(Cl)c2)=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 7.12
+    pubid "CHEMBL156987"
   ]
   node
   [
     id 25
     smiles "O=C1NC(=O)C(c2cccc(Cl)c2)=C1Nc1cccc(C(=O)O)c1"
     pIC50 6.87
+    pubid "CHEMBL345364"
   ]
   node
   [
     id 26
     smiles "COc1cccc(C2=C(Nc3ccc(Cl)c(C(=O)O)c3)C(=O)NC2=O)c1"
     pIC50 7.07
+    pubid "CHEMBL349810"
   ]
   node
   [
     id 27
     smiles "COc1cccc(C2=C(Nc3cccc(C(=O)O)c3)C(=O)NC2=O)c1"
     pIC50 6.71
+    pubid "CHEMBL346493"
   ]
   node
   [
     id 28
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 7.58
+    pubid "CHEMBL156379"
   ]
   node
   [
     id 29
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1cccc(C(=O)O)c1"
     pIC50 7.1
+    pubid "CHEMBL159149"
   ]
   node
   [
     id 30
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 6.84
+    pubid "CHEMBL160251"
   ]
   node
   [
     id 31
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1cccc(C(=O)O)c1"
     pIC50 6.54
+    pubid "CHEMBL348505"
   ]
   node
   [
     id 32
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 7.13
+    pubid "CHEMBL345212"
   ]
   node
   [
     id 33
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1cccc(C(=O)O)c1"
     pIC50 6.87
+    pubid "CHEMBL350702"
   ]
   node
   [
     id 34
     smiles "COc1ccc(C2=C(N3CCc4ccccc43)C(=O)NC2=O)cc1"
     pIC50 6.16
+    pubid "CHEMBL347580"
   ]
   node
   [
     id 35
     smiles "COc1ccccc1C1=C(N2CCc3ccccc32)C(=O)NC1=O"
     pIC50 6.73
+    pubid "CHEMBL160585"
   ]
   node
   [
     id 36
     smiles "COc1cccc(C2=C(Nc3cc(Cl)c(O)c(Cl)c3)C(=O)NC2=O)c1"
     pIC50 6.85
+    pubid "CHEMBL157348"
   ]
   node
   [
     id 37
     smiles "COc1ccccc1C1=C(Nc2cc(Cl)c(O)c(Cl)c2)C(=O)NC1=O"
     pIC50 7.09
+    pubid "CHEMBL345800"
   ]
   node
   [
     id 38
     smiles "COc1ccc(C2=C(Nc3cc(Cl)c(O)c(Cl)c3)C(=O)NC2=O)cc1"
     pIC50 7.08
+    pubid "CHEMBL346721"
   ]
   node
   [
     id 39
     smiles "COc1ccc(C2=C(Nc3ccc(SC)cc3)C(=O)NC2=O)cc1"
     pIC50 6.61
+    pubid "CHEMBL160598"
   ]
   node
   [
     id 40
     smiles "COc1ccccc1C1=C(Nc2ccc(SC)cc2)C(=O)NC1=O"
     pIC50 6.96
+    pubid "CHEMBL349540"
   ]
   node
   [
     id 41
     smiles "COc1cccc(C2=C(Nc3ccc(SC)cc3)C(=O)NC2=O)c1"
     pIC50 6.69
+    pubid "CHEMBL158526"
   ]
   node
   [
     id 42
     smiles "COc1ccc(C2=C(Nc3cccc(C(=O)O)c3)C(=O)NC2=O)cc1"
     pIC50 6.67
+    pubid "CHEMBL156218"
   ]
   node
   [
     id 43
     smiles "COc1ccc(C2=C(Nc3cccc(Cl)c3)C(=O)NC2=O)cc1"
     pIC50 6.81
+    pubid "CHEMBL158208"
   ]
   node
   [
     id 44
     smiles "COc1cccc(C2=C(Nc3cccc(Cl)c3)C(=O)NC2=O)c1"
     pIC50 6.59
+    pubid "CHEMBL346829"
   ]
   node
   [
     id 45
     smiles "COc1ccccc1C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O"
     pIC50 6.94
+    pubid "CHEMBL156277"
   ]
   node
   [
     id 46
     smiles "COc1ccc(C2=C(Nc3cccc(O)c3)C(=O)NC2=O)cc1"
     pIC50 6.32
+    pubid "CHEMBL160829"
   ]
   node
   [
     id 47
     smiles "COc1cccc(C2=C(Nc3cccc(O)c3)C(=O)NC2=O)c1"
     pIC50 6.33
+    pubid "CHEMBL160373"
   ]
   node
   [
     id 48
     smiles "COc1ccccc1C1=C(Nc2cccc(O)c2)C(=O)NC1=O"
     pIC50 6.59
+    pubid "CHEMBL160231"
   ]
   node
   [
     id 49
     smiles "COc1ccc(C2=C(Nc3ccccc3)C(=O)NC2=O)cc1"
     pIC50 6.41
+    pubid "CHEMBL156807"
   ]
   node
   [
     id 50
     smiles "COc1ccccc1C1=C(Nc2ccccc2)C(=O)NC1=O"
     pIC50 6.67
+    pubid "CHEMBL156263"
   ]
   node
   [
     id 51
     smiles "CN(C1=C(c2ccc(Cl)cc2)C(=O)NC1=O)c1ccccc1"
     pIC50 5.64
+    pubid "CHEMBL435045"
   ]
   node
   [
     id 52
     smiles "CSc1ccc(NC2=C(c3ccc(Cl)cc3)C(=O)NC2=O)cc1"
     pIC50 6.28
+    pubid "CHEMBL351342"
   ]
   node
   [
     id 53
     smiles "CN(C1=C(c2cccc([N+](=O)[O-])c2)C(=O)NC1=O)c1ccccc1"
     pIC50 5.85
+    pubid "CHEMBL156801"
   ]
   node
   [
     id 54
     smiles "CSc1ccc(NC2=C(c3cccc([N+](=O)[O-])c3)C(=O)NC2=O)cc1"
     pIC50 6.82
+    pubid "CHEMBL346996"
   ]
   node
   [
     id 55
     smiles "CN(C1=C(c2ccccc2)C(=O)NC1=O)c1ccccc1"
     pIC50 5.58
+    pubid "CHEMBL351334"
   ]
   node
   [
     id 56
     smiles "CSc1ccc(NC2=C(c3ccccc3)C(=O)NC2=O)cc1"
     pIC50 6.39
+    pubid "CHEMBL434484"
   ]
   node
   [
     id 57
     smiles "COc1ccc(-c2ccc3c(NC(=O)C4CC4)n[nH]c3n2)cc1"
     pIC50 4.64
+    pubid "CHEMBL408732"
   ]
   node
   [
     id 58
     smiles "COc1cccc(-c2ccc3c(NC(=O)C4CC4)n[nH]c3n2)c1"
     pIC50 6.9
+    pubid "CHEMBL406620"
   ]
   node
   [
     id 59
     smiles "COc1ccccc1-c1ccc2c(NC(=O)C3CC3)n[nH]c2n1"
     pIC50 5.8
+    pubid "CHEMBL408979"
   ]
   node
   [
     id 60
     smiles "CS(=O)(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 5.45
+    pubid "CHEMBL287731"
   ]
   node
   [
     id 61
     smiles "O=C1NC(=O)C(N2CCc3ccccc32)=C1c1cccc([N+](=O)[O-])c1"
     pIC50 6.79
+    pubid "CHEMBL156153"
   ]
   node
   [
     id 62
     smiles "O=C1NC(=O)C(N2CCc3ccccc32)=C1c1ccccc1Cl"
     pIC50 6.47
+    pubid "CHEMBL155967"
   ]
   node
   [
     id 63
     smiles "O=C1NC(=O)C(N2CCc3ccccc32)=C1c1cccc(Cl)c1"
     pIC50 6.34
+    pubid "CHEMBL346107"
   ]
   node
   [
     id 64
     smiles "O=C1NC(=O)C(N2CCc3ccccc32)=C1c1ccccc1[N+](=O)[O-]"
     pIC50 6.88
+    pubid "CHEMBL158719"
   ]
   node
   [
     id 65
     smiles "O=C1NC(=O)C(N2CCc3ccccc32)=C1c1ccc(Cl)cc1"
     pIC50 5.85
+    pubid "CHEMBL156524"
   ]
   node
   [
     id 66
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 6.83
+    pubid "CHEMBL347857"
   ]
   node
   [
     id 67
     smiles "O=C1NC(=O)C(c2ccc([N+](=O)[O-])cc2)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.15
+    pubid "CHEMBL347681"
   ]
   node
   [
     id 68
     smiles "O=C1NC(=O)C(c2cccc(Cl)c2)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.24
+    pubid "CHEMBL422714"
   ]
   node
   [
     id 69
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.7
+    pubid "CHEMBL352222"
   ]
   node
   [
     id 70
     smiles "O=C1NC(=O)C(c2ccccc2[N+](=O)[O-])=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.28
+    pubid "CHEMBL158885"
   ]
   node
   [
     id 71
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.04
+    pubid "CHEMBL347134"
   ]
   node
   [
     id 72
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1cc(Cl)c(O)c(Cl)c1"
     pIC50 7.03
+    pubid "CHEMBL157258"
   ]
   node
   [
     id 73
     smiles "O=C1NC(=O)C(c2ccccc2[N+](=O)[O-])=C1Nc1ccc(Cl)c(C(=O)O)c1"
     pIC50 7.55
+    pubid "CHEMBL160586"
   ]
   node
   [
     id 74
     smiles "O=C1NC(=O)C(c2cccc(Cl)c2)=C1Nc1ccc(O)c(Cl)c1"
     pIC50 7.03
+    pubid "CHEMBL160333"
   ]
   node
   [
     id 75
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1ccc(O)c(Cl)c1"
     pIC50 6.82
+    pubid "CHEMBL157141"
   ]
   node
   [
     id 76
     smiles "COc1ccccc1C1=C(Nc2ccc(O)c(Cl)c2)C(=O)NC1=O"
     pIC50 6.86
+    pubid "CHEMBL157089"
   ]
   node
   [
     id 77
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1ccc(O)c(Cl)c1"
     pIC50 7.23
+    pubid "CHEMBL345348"
   ]
   node
   [
     id 78
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1ccc(O)c(Cl)c1"
     pIC50 6.76
+    pubid "CHEMBL156684"
   ]
   node
   [
     id 79
     smiles "O=C1NC(=O)C(c2ccccc2[N+](=O)[O-])=C1Nc1ccc(O)c(Cl)c1"
     pIC50 6.98
+    pubid "CHEMBL322970"
   ]
   node
   [
     id 80
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1ccc(O)cc1"
     pIC50 6.5
+    pubid "CHEMBL156808"
   ]
   node
   [
     id 81
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1ccc(O)cc1"
     pIC50 6.91
+    pubid "CHEMBL155680"
   ]
   node
   [
     id 82
     smiles "CSc1ccc(NC2=C(c3cccc(Cl)c3)C(=O)NC2=O)cc1"
     pIC50 6.27
+    pubid "CHEMBL160743"
   ]
   node
   [
     id 83
     smiles "CSc1ccc(NC2=C(c3ccc([N+](=O)[O-])cc3)C(=O)NC2=O)cc1"
     pIC50 6.41
+    pubid "CHEMBL158835"
   ]
   node
   [
     id 84
     smiles "CSc1ccc(NC2=C(c3ccccc3Cl)C(=O)NC2=O)cc1"
     pIC50 6.79
+    pubid "CHEMBL156563"
   ]
   node
   [
     id 85
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1cccc(Cl)c1"
     pIC50 7.16
+    pubid "CHEMBL345801"
   ]
   node
   [
     id 86
     smiles "O=C1NC(=O)C(c2ccccc2[N+](=O)[O-])=C1Nc1cccc(Cl)c1"
     pIC50 6.98
+    pubid "CHEMBL346066"
   ]
   node
   [
     id 87
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1cccc(Cl)c1"
     pIC50 6.71
+    pubid "CHEMBL156506"
   ]
   node
   [
     id 88
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1cccc(Cl)c1"
     pIC50 6.35
+    pubid "CHEMBL160938"
   ]
   node
   [
     id 89
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1cccc(Cl)c1"
     pIC50 6.52
+    pubid "CHEMBL351356"
   ]
   node
   [
     id 90
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1cccc(O)c1"
     pIC50 6.63
+    pubid "CHEMBL158559"
   ]
   node
   [
     id 91
     smiles "O=C1NC(=O)C(c2cccc(Cl)c2)=C1Nc1cccc(O)c1"
     pIC50 5.83
+    pubid "CHEMBL351801"
   ]
   node
   [
     id 92
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1cccc(O)c1"
     pIC50 6.43
+    pubid "CHEMBL160937"
   ]
   node
   [
     id 93
     smiles "O=C1NC(=O)C(c2ccccc2[N+](=O)[O-])=C1Nc1cccc(O)c1"
     pIC50 6.6
+    pubid "CHEMBL155931"
   ]
   node
   [
     id 94
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1cccc(O)c1"
     pIC50 6.15
+    pubid "CHEMBL350435"
   ]
   node
   [
     id 95
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1cccc(O)c1"
     pIC50 6.39
+    pubid "CHEMBL347419"
   ]
   node
   [
     id 96
     smiles "O=C1NC(=O)C(c2cccc([N+](=O)[O-])c2)=C1Nc1ccccc1"
     pIC50 6.85
+    pubid "CHEMBL346371"
   ]
   node
   [
     id 97
     smiles "O=C1NC(=O)C(c2ccccc2Cl)=C1Nc1ccccc1"
     pIC50 6.67
+    pubid "CHEMBL347647"
   ]
   node
   [
     id 98
     smiles "O=C1NC(=O)C(c2ccccc2)=C1Nc1ccccc1"
     pIC50 6.23
+    pubid "CHEMBL346551"
   ]
   node
   [
     id 99
     smiles "O=C1NC(=O)C(c2ccc(Cl)cc2)=C1Nc1ccccc1"
     pIC50 6.29
+    pubid "CHEMBL160968"
   ]
   node
   [
     id 100
     smiles "CCNC(=O)Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 5.55
+    pubid "CHEMBL408809"
   ]
   node
   [
     id 101
     smiles "O=C(Nc1n[nH]c2cc(-c3cc(F)ccc3F)ccc12)C1CC1"
     pIC50 6
+    pubid "CHEMBL261440"
   ]
   node
   [
     id 102
     smiles "O=C(Nc1n[nH]c2cc(-c3cccc(F)c3)ccc12)C1CC1"
     pIC50 6.08
+    pubid "CHEMBL261660"
   ]
   node
   [
     id 103
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3cccc(F)c3)cc12"
     pIC50 7.7
+    pubid "CHEMBL263907"
   ]
   node
   [
     id 104
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3cccc(F)c3F)cc12"
     pIC50 8.15
+    pubid "CHEMBL264161"
   ]
   node
   [
     id 105
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccccc3F)cc12"
     pIC50 7.75
+    pubid "CHEMBL407373"
   ]
   node
   [
     id 106
     smiles "Nc1n[nH]c2nccc(-c3ccccc3)c12"
     pIC50 4.64
+    pubid "CHEMBL428968"
   ]
   node
   [
     id 107
     smiles "Nc1n[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 6.37
+    pubid "CHEMBL261439"
   ]
   node
   [
     id 108
     smiles "Cn1nc(N)c2cc(-c3ccccc3)cnc21"
     pIC50 4.64
+    pubid "CHEMBL40835"
   ]
   node
   [
     id 109
     smiles "Nc1n[nH]c2nnc(-c3ccccc3)cc12"
     pIC50 6.28
+    pubid "CHEMBL408634"
   ]
   node
   [
     id 110
     smiles "Nc1noc2ncc(-c3ccccc3)cc12"
     pIC50 4.64
+    pubid "CHEMBL290147"
   ]
   node
   [
     id 111
     smiles "Nc1n[nH]c2cnc(-c3ccccc3)cc12"
     pIC50 5.9
+    pubid "CHEMBL259925"
   ]
   node
   [
     id 112
     smiles "Nc1c[nH]c2ncc(-c3ccccc3)cc12"
     pIC50 4.64
+    pubid "CHEMBL40493"
   ]
   node
   [
     id 113
     smiles "Cc1cc2c(NC(=O)C3CC3)n[nH]c2nc1-c1ccc(O)cc1"
     pIC50 8.22
+    pubid "CHEMBL260662"
   ]
   node
   [
     id 114
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)cc3)c(Cl)cc12)C1CC1"
     pIC50 9
+    pubid "CHEMBL260664"
   ]
   node
   [
     id 115
     smiles "O=C(Nc1n[nH]c2cc(-c3ccc(O)cc3)ccc12)C1CC1"
     pIC50 7.82
+    pubid "CHEMBL260163"
   ]
   node
   [
     id 116
     smiles "O=C(Nc1n[nH]c2nc(-c3ccccc3)c(Cl)cc12)C1CC1"
     pIC50 6.63
+    pubid "CHEMBL261883"
   ]
   node
   [
     id 117
     smiles "O=C(Nc1n[nH]c2cc(-c3ccccc3)ccc12)C1CC1"
     pIC50 6.3
+    pubid "CHEMBL405021"
   ]
   node
   [
     id 118
     smiles "O=C(Nc1n[nH]c2nc(-c3ccccc3)ccc12)C1CC1"
     pIC50 6.37
+    pubid "CHEMBL260344"
   ]
   node
   [
     id 119
     smiles "O=C(Nc1n[nH]c2nc(-c3ccco3)ccc12)C1CC1"
     pIC50 6.85
+    pubid "CHEMBL101804"
   ]
   node
   [
     id 120
     smiles "O=C(Nc1n[nH]c2nc(-c3ccco3)c(Br)cc12)C1CC1"
     pIC50 8.15
+    pubid "CHEMBL408564"
   ]
   node
   [
     id 121
     smiles "O=C(Nc1n[nH]c2cc(-c3cccs3)ccc12)C1CC1"
     pIC50 6.67
+    pubid "CHEMBL318522"
   ]
   node
   [
     id 122
     smiles "CCCC(=O)Nc1n[nH]c2ccc(-c3ccccc3)cc12"
     pIC50 7
+    pubid "CHEMBL261366"
   ]
   node
   [
     id 123
     smiles "CCCC(=O)Nc1n[nH]c2cnc(-c3ccccc3)nc12"
     pIC50 5.57
+    pubid "CHEMBL261661"
   ]
   node
   [
     id 124
     smiles "CCCC(=O)Nc1n[nH]c2cnc(-c3ccccc3)cc12"
     pIC50 8.15
+    pubid "CHEMBL261549"
   ]
   node
   [
     id 125
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)c(Cl)c3)ccc12)C1CC1"
     pIC50 8.15
+    pubid "CHEMBL259838"
   ]
   node
   [
     id 126
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)c(Br)c3)ccc12)C1CC1"
     pIC50 8.3
+    pubid "CHEMBL260416"
   ]
   node
   [
     id 127
     smiles "O=C(Nc1n[nH]c2nc(-c3cccc(O)c3)ccc12)C1CC1"
     pIC50 7.92
+    pubid "CHEMBL408019"
   ]
   node
   [
     id 128
     smiles "O=C(Nc1n[nH]c2nc(-c3ccccc3O)ccc12)C1CC1"
     pIC50 7.44
+    pubid "CHEMBL260663"
   ]
   node
   [
     id 129
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)c(O)c3)ccc12)C1CC1"
     pIC50 8.1
+    pubid "CHEMBL260345"
   ]
   node
   [
     id 130
     smiles "Nc1n[nH]c2nnc(-c3ccccc3)c(-c3ccccc3)c12"
     pIC50 6.6
+    pubid "CHEMBL260135"
   ]
   node
   [
     id 131
     smiles "O=C(Nc1n[nH]c2nc(-c3ccc(O)cc3)c(-c3ccccc3)cc12)C1CC1"
     pIC50 7.62
+    pubid "CHEMBL427909"
   ]
   node
   [
     id 132
     smiles "N#Cc1cc2c(NC(=O)C3CC3)n[nH]c2nc1-c1ccccc1"
     pIC50 7.06
+    pubid "CHEMBL261881"
   ]
   node
   [
     id 133
     smiles "O=C(Nc1n[nH]c2nc(-c3ccccc3)c(-c3ccccc3)cc12)C1CC1"
     pIC50 6.38
+    pubid "CHEMBL407958"
   ]
   node
   [
     id 134
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccc(-c4ccccc4)cc3)cc12"
     pIC50 6.07
+    pubid "CHEMBL261052"
   ]
   node
   [
     id 135
     smiles "NS(=O)(=O)c1cccc(-c2ccc3c(NC(=O)C4CC4)n[nH]c3c2)c1"
     pIC50 6.32
+    pubid "CHEMBL407113"
   ]
   node
   [
     id 136
     smiles "O=C(Nc1n[nH]c2cc(-c3ccsc3)ccc12)C1CC1"
     pIC50 6.48
+    pubid "CHEMBL260928"
   ]
   node
   [
     id 137
     smiles "O=C(Nc1n[nH]c2cc(-c3ccc[nH]3)ccc12)C1CC1"
     pIC50 6.5
+    pubid "CHEMBL260929"
   ]
   node
   [
     id 138
     smiles "O=C(Nc1n[nH]c2cc(-c3ccoc3)ccc12)C1CC1"
     pIC50 7.46
+    pubid "CHEMBL260243"
   ]
   node
   [
     id 139
     smiles "O=C(Nc1n[nH]c2cc(-c3ccc4[nH]ccc4c3)ccc12)C1CC1"
     pIC50 7.38
+    pubid "CHEMBL261659"
   ]
   node
   [
     id 140
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccccc3Cl)cc12"
     pIC50 7.57
+    pubid "CHEMBL407003"
   ]
   node
   [
     id 141
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccncc3)cc12"
     pIC50 6.35
+    pubid "CHEMBL261264"
   ]
   node
   [
     id 142
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3cccc4ccccc34)cc12"
     pIC50 6.62
+    pubid "CHEMBL260329"
   ]
   node
   [
     id 143
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3ccc4ccccc4c3)cc12"
     pIC50 6.77
+    pubid "CHEMBL406062"
   ]
   node
   [
     id 144
     smiles "CCCC(=O)Nc1n[nH]c2ncc(B3OC(C)(C)C(C)(C)O3)cc12"
     pIC50 6.45
+    pubid "CHEMBL264162"
   ]
   node
   [
     id 145
     smiles "CCCC(=O)Nc1n[nH]c2ncc(-c3cccnc3)cc12"
     pIC50 7.96
+    pubid "CHEMBL407002"
   ]
   node
   [
     id 146
     smiles "CCCC(=O)Nc1n[nH]c2ncccc12"
     pIC50 5.63
+    pubid "CHEMBL407374"
   ]
   node
   [
     id 147
     smiles "CCCC(=O)Nc1n[nH]c2nnc(-c3ccccc3)c(-c3ccccc3)c12"
     pIC50 6.16
+    pubid "CHEMBL261127"
   ]
   edge
   [
