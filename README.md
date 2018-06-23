@@ -1,4 +1,5 @@
 # Mishima.syk #12
+- https://connpass.com/event/83396/
 
 
 ## AGENDA
